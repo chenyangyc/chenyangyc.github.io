@@ -1,7 +1,12 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /#publications
+    # url: /publications/
+
+  - title: "News"
+    url: /#news
+    # url: /publications/
 
   # - title: "Talks"
   #   url: /talks/
@@ -20,3 +25,4 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
