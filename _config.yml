@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chen Yang"
 title_separator          : "-"
 name                     : &name "Chen Yang"
-description              : &description "1st-year SE Master in Tianjin University"
+description              : &description ""
 url                      : https://chenyangyc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenyangyc.github.io"
@@ -236,7 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  _talks
+  #_talks
   - scope:
       path: ""
       type: talks
